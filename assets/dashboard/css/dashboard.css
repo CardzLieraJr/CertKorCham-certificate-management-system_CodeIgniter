@@ -1,0 +1,20 @@
+li.nav-item > a.nav-link{
+	color:#fff!important;
+}
+ul.nav.nav-tabs > li.nav-item > a.nav-link{
+	color:#000!important;
+	border-color: #dee2e6 #dee2e6 #fff;
+}
+
+ul.nav.nav-tabs > li.nav-item.active > a.nav-link{
+	background-color: #fff!important;
+	    
+}
+
+.nav-tabs, .table-responsive{
+	margin: 1rem 0;
+}
+
+section.content{
+	margin:30px 0px;
+}
