@@ -116,7 +116,7 @@ http://localhost/aakorcham
 ## Screenshots
 
 ```markdown
-![Certificate Preview](screenshots/certificate.png)
+![Certificate](screenshots/certificate.png)
 ```
 
 ## Future Enhancements
